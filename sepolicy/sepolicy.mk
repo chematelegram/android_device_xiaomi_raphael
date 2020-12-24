@@ -25,6 +25,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/audio \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/battery \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/camera \
+    device/xiaomi/raphael/sepolicy/vendor/xiaomi/fastcharge \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/fingerprint \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/fod \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/last_kmsg \
