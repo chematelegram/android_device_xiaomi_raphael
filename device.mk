@@ -21,7 +21,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 $(call inherit-product, vendor/xiaomi/raphael/raphael-vendor.mk)
 
 # MiuiCamera
-$(call inherit-product, vendor/xiaomi/miuicamera/config.mk)
+$(call inherit-product, vendor/xiaomi/miuicamera-raphael/config.mk)
 
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
