@@ -29,6 +29,8 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Spark specific flags
 EXTRA_UDFPS_ANIMATIONS := true
+TARGET_SUPPORTS_GOOGLE_RECORDER := false
+TARGET_INCLUDE_STOCK_ARCORE ?= false
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := spark_raphael
