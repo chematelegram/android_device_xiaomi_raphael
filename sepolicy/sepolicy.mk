@@ -28,6 +28,7 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/fastcharge \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/fingerprint \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/fod \
+    device/xiaomi/raphael/sepolicy/vendor/xiaomi/fpsinfo \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/last_kmsg \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/light \
     device/xiaomi/raphael/sepolicy/vendor/xiaomi/motor \
